@@ -1,0 +1,133 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="PSCJ.com" resolutions="1x" timestamp="1561565786257">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="430845363" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="form_check.php" crc="147359589" ref="index"/>
+    <file name="form_throttle.php" crc="93986428" ref="index"/>
+    <file name="form_process.php" crc="3851993751" ref="index"/>
+    <file name="form-u521.php" crc="120801436" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="logo fondo blanco.png" crc="279950311" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banners-03.png" crc="447789698" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="banners-02.png" crc="61905734" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banners-01.png" crc="4286418186" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ar2.png" crc="54280652" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ar.png" crc="396165195" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="pasted-svg-90x90.svg" crc="4190215406" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 90x90_poster_.png" crc="3901735374" ref="index"/>
+    <file name="pasted-svg-90x902.svg" crc="417632378" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 90x90_poster_2.png" crc="4283432130" ref="index"/>
+    <file name="pasted-svg-90x903.svg" crc="19115048" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 90x90_poster_3.png" crc="4240085802" ref="index"/>
+    <file name="pasted-svg-90x904.svg" crc="407654251" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 90x90_poster_4.png" crc="4027539038" ref="index"/>
+    <file name="rollos 2.jpg" crc="3952946352" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg-01.png" crc="426930831" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pantalla-serigrafia-marcos-de-madera-para-serigrafia-x3-1_grande-crop-u1654.jpg" crc="3767047409" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="abb861230451195631c6a81656f230x153.jpg" crc="4154075912" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="d495ba230451195631cb7e3df84.jpg" crc="4123029874" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6dd4b6230451195631c6a980f6f.jpg" crc="3912171466" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="83cbe8230451195631c60740b9d.jpg" crc="3973940470" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="baae1c230451195631c60749385.jpg" crc="236260929" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="45ace8230451195631c6073bb3c.jpg" crc="3874831697" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="44a308230451195631c6a81ef63230x153.jpg" crc="4160239079" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pantalla-serigrafia-marcos-de-madera-para-serigrafia-x3-1_grande.jpg" crc="274849236" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="abb861230451195631c6a81656f.jpg" crc="4233697131" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="44a308230451195631c6a81ef63.jpg" crc="3885251002" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo sanchez.jpg" crc="428638801" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter.png" crc="4102706121" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pinterest.png" crc="4214682508" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook.png" crc="317936629" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="youtube.png" crc="442611654" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagram.png" crc="260457741" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="357371641" seo="true" mt="1561565682704" redirect="true"/>
+</manifest>
